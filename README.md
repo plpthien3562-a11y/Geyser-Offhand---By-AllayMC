@@ -50,16 +50,4 @@
 
 ---
 
-## 🔧 Developer & Build Technicalities
 
-### Repository Setup
-All source references, issue tracking, and contributions must point exclusively to the official repository:
-* **Source Code:** `https://github.com/plpthien3562-a11y`
-
-### License & Copyright
-Every source file must contain the following header boilerplate:
-```java
-/*
- * Copyright (c) 2026 AllayMC. All rights reserved.
- * Source code: [https://github.com/plpthien3562-a11y](https://github.com/plpthien3562-a11y)
- */
