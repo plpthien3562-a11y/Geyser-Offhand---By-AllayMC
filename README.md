@@ -49,5 +49,6 @@
 5. Verify successful initialization by executing `/plugins` in the console (the plugin name should appear in green).
 
 ---
-
+🐛Bug report?
+https://github.com/plpthien3562-a11y/Geyser-Offhand---By-AllayMC/issues
 
